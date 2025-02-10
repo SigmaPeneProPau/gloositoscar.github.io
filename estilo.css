@@ -1,0 +1,173 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer a {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-size: 3em;
+    color: #fff;
+    background-color: #333;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+table, th, td {
+    border: 2px solid #444;
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+td {
+    background-color: #ddd;
+    color: black;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #444;
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+ul, ol {
+    padding: 15px;
+}
+
+ul li {
+    list-style-type: square;
+    margin: 5px 0;
+}
+
+ol li {
+    list-style-type: decimal;
+    margin: 5px 0;
+}
+
+form {
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+}
+
+input[type="submit"]:hover {
+    background: #0056b3;
+}
+
+.nav-horizontal {
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-horizontal a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.nav-horizontal a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
+.nav-vertical {
+    width: 200px;
+    position: fixed;
+    height: 100%;
+    background: #222;
+    padding-top: 20px;
+}
+
+.nav-vertical a {
+    display: block;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.nav-vertical a:hover {
+    background: #575757;
+}

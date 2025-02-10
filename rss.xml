@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>GLOOSITO - Noticias y Contenido</title>
+        <link>https://tu-sitio-web.com</link>
+        <description>Últimas noticias y contenido sobre el cantante Gloosito.</description>
+        <language>es</language>
+
+        <item>
+            <title>Bienvenida a la web de Gloosito</title>
+            <link>https://tu-sitio-web.com</link>
+            <description>Explora la carrera y vida de Gloosito, uno de los artistas más populares del momento.</description>
+            <pubDate>Mon, 10 Feb 2025 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Discografía de Gloosito</title>
+            <link>https://tu-sitio-web.com#discografia</link>
+            <description>Gloosito cuenta con 4 álbumes hasta la fecha. Descubre más sobre su música.</description>
+            <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Cita famosa de Gloosito</title>
+            <link>https://tu-sitio-web.com#cita</link>
+            <description>"La música es el alma de mi vida." - Gloosito</description>
+            <pubDate>Mon, 10 Feb 2025 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Próximos Conciertos de Gloosito</title>
+            <link>https://tu-sitio-web.com#conciertos</link>
+            <description>Consulta las fechas y ciudades donde Gloosito estará presentándose en vivo.</description>
+            <pubDate>Mon, 10 Feb 2025 13:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
